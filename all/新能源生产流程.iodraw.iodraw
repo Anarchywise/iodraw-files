@@ -133,8 +133,8 @@
         <mxCell id="89fPzP3RNpx78c_sobaw-11" value="采购订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="89fPzP3RNpx78c_sobaw-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="605" y="535" width="105" height="25" as="geometry" />
+        <mxCell id="89fPzP3RNpx78c_sobaw-13" value="收货入库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="612.5" y="510" width="105" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
