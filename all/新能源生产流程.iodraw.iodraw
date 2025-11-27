@@ -121,7 +121,7 @@
         <mxCell id="89fPzP3RNpx78c_sobaw-6" value="跑MRP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607.5" y="280" width="115" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="89fPzP3RNpx78c_sobaw-8" value="各物料的需求数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="89fPzP3RNpx78c_sobaw-8" value="素电池、五大部件、包装材料的需求数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="612.5" y="362.5" width="105" height="27.5" as="geometry" />
         </mxCell>
       </root>
