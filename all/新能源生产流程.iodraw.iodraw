@@ -127,8 +127,8 @@
         <mxCell id="89fPzP3RNpx78c_sobaw-8" value="素电池、五大部件、包装材料的需求数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="596.25" y="358.75" width="137.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="89fPzP3RNpx78c_sobaw-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="460" width="110" height="40" as="geometry" />
+        <mxCell id="89fPzP3RNpx78c_sobaw-11" value="采购订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="470" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
