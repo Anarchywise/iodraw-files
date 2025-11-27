@@ -136,17 +136,24 @@
         <mxCell id="89fPzP3RNpx78c_sobaw-11" value="采购订单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="440" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="89fPzP3RNpx78c_sobaw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="89fPzP3RNpx78c_sobaw-13" target="89fPzP3RNpx78c_sobaw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-13" value="收货入库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="612.5" y="510" width="105" height="25" as="geometry" />
         </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="89fPzP3RNpx78c_sobaw-15" target="89fPzP3RNpx78c_sobaw-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-15" value="合并下单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472.5" y="437.5" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="89fPzP3RNpx78c_sobaw-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="624.38" y="574.5" width="81.25" height="25.5" as="geometry" />
+        <mxCell id="89fPzP3RNpx78c_sobaw-18" value="拆分库存到WBS上" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="624.38" y="574.5" width="105.62" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
