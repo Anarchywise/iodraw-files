@@ -143,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-15" value="合并下单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="490" width="75" height="35" as="geometry" />
+          <mxGeometry x="472.5" y="437.5" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472.5" y="575" width="72.5" height="20" as="geometry" />
