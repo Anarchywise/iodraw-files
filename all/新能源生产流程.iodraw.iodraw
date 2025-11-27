@@ -121,8 +121,13 @@
         <mxCell id="89fPzP3RNpx78c_sobaw-6" value="跑MRP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607.5" y="280" width="115" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="89fPzP3RNpx78c_sobaw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="89fPzP3RNpx78c_sobaw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="89fPzP3RNpx78c_sobaw-8" value="素电池、五大部件、包装材料的需求数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="612.5" y="362.5" width="105" height="27.5" as="geometry" />
+          <mxGeometry x="596.25" y="358.75" width="137.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
