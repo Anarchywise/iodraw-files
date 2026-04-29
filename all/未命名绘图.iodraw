@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iUcj1plFT6u4-5K3OkJH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="75" width="710" height="510" as="geometry" />
+          <mxGeometry x="80" y="40" width="710" height="545" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-9" value="项目总监" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="140" height="50" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="120" y="200" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-11" value="&lt;div&gt;林静&lt;/div&gt;&lt;div&gt;&lt;div&gt;项目总负责人，SAP实施经验20+&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="97.5" width="450" height="75" as="geometry" />
+          <mxGeometry x="300" y="110" width="450" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
