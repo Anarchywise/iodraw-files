@@ -40,10 +40,10 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="240" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-26" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-26" value="项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="383" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-27" value="漆名驹（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-27" value="漆名驹（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="377" y="240" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-28" value="乔浩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
