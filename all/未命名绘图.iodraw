@@ -19,6 +19,9 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-12" value="&lt;div&gt;郭岚&lt;/div&gt;&lt;div&gt;&lt;div&gt;项目经理，SAP实施经验17+&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="380" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-13" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
