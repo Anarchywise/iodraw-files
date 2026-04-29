@@ -82,7 +82,7 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-33" value="物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-34" value="罗益（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-34" value="罗益（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-35" value="左东" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-40" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-41" value="郑凯（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-41" value="郑凯（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-42" value="钟小凤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-47" value="技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-48" value="王杉青（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-48" value="王杉青（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="630" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-49" value="赵雄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
