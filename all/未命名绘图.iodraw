@@ -31,6 +31,9 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-20" value="王波（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="240" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-21" value="赵雄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
