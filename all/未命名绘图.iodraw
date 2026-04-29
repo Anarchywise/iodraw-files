@@ -17,7 +17,10 @@
           <mxGeometry x="270" y="140" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-15" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="140" height="50" as="geometry" />
+          <mxGeometry x="130" y="190" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-16" value="&lt;div&gt;郭岚&lt;/div&gt;&lt;div&gt;&lt;div&gt;项目经理，SAP实施经验17+&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="380" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
