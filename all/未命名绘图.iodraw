@@ -52,7 +52,7 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="240" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-26" value="财务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-26" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="220" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-27" value="王波（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="240" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-33" value="财务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iUcj1plFT6u4-5K3OkJH-33" value="物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="220" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-34" value="王波（组长）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
