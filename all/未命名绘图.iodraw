@@ -7,11 +7,8 @@
         <mxCell id="iUcj1plFT6u4-5K3OkJH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="670" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="iUcj1plFT6u4-5K3OkJH-4" value="项目总监" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="iUcj1plFT6u4-5K3OkJH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="150" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
