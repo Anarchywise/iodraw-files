@@ -43,6 +43,12 @@
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7_Mvf4ExFY1R6kKWdZ-19" target="SS7_Mvf4ExFY1R6kKWdZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7_Mvf4ExFY1R6kKWdZ-19" target="SS7_Mvf4ExFY1R6kKWdZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7_Mvf4ExFY1R6kKWdZ-19" target="SS7_Mvf4ExFY1R6kKWdZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-19" value="甲方:项目经理&lt;div&gt;乙方:项目经理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="240" width="211" height="50" as="geometry" />
         </mxCell>
