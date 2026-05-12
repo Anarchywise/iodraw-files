@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-16" value="甲方:公司高层&lt;div&gt;乙方:公司高层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="122" width="197" height="49" as="geometry" />
+          <mxGeometry x="258" y="122" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-17" value="项目领导小组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="92" width="198" height="31" as="geometry" />
+          <mxGeometry x="258" y="93" width="197" height="29" as="geometry" />
         </mxCell>
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7_Mvf4ExFY1R6kKWdZ-19" target="SS7_Mvf4ExFY1R6kKWdZ-2">
           <mxGeometry relative="1" as="geometry" />
