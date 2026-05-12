@@ -50,10 +50,10 @@
           <mxGeometry x="309" y="210" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-23" value="甲方:项目经理&lt;div&gt;乙方:项目经理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="610" y="190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-24" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="90" height="30" as="geometry" />
+        <mxCell id="SS7_Mvf4ExFY1R6kKWdZ-24" value="项目总监" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
