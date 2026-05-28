@@ -167,17 +167,21 @@
         <mxCell id="UfCZ2Xw1dFcNarBihxez-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=10;size=20;indent=5;opacity=10;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="106" y="10" width="540" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-2" target="JTgKe-hY3lqm0-iu2Nnw-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="763.44" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JTgKe-hY3lqm0-iu2Nnw-2" value="作业价格分割&lt;div&gt;KSS2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="750" width="87" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-4" target="zl0trGqpFPu-GI9EGwXj-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zl0trGqpFPu-GI9EGwXj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="790" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-4" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;拆分费到作业类型&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="736.88" width="130" height="53.12" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-7" value="实际作业价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
