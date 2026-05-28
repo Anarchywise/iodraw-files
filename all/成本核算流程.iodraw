@@ -167,11 +167,17 @@
         <mxCell id="UfCZ2Xw1dFcNarBihxez-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=10;size=20;indent=5;opacity=10;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="106" y="10" width="540" height="440" as="geometry" />
         </mxCell>
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-2" target="JTgKe-hY3lqm0-iu2Nnw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTgKe-hY3lqm0-iu2Nnw-2" value="作业价格分割&lt;div&gt;KSS2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="108" y="750" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-4" value="实际作业价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="755" width="100" height="30" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-4" target="zl0trGqpFPu-GI9EGwXj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-4" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;将生产部门总费用“拆分”到不同作业类型（人工、机器等）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="737.5" width="143" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
