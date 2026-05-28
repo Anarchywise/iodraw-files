@@ -170,8 +170,8 @@
         <mxCell id="JTgKe-hY3lqm0-iu2Nnw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-2" target="zl0trGqpFPu-GI9EGwXj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-2" value="&lt;div&gt;核对成本中心费用&lt;/div&gt;&lt;div&gt;KSB1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="740" width="107" height="40" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-2" value="作业价格分割" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="740" width="97" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
