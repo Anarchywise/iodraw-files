@@ -99,37 +99,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-6" value="成本中心月结&lt;div&gt;KSII&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="106" y="725" width="87" height="40" as="geometry" />
+          <mxGeometry x="113" y="824" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zl0trGqpFPu-GI9EGwXj-7" target="zl0trGqpFPu-GI9EGwXj-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-7" value="实际作业价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="730" width="100" height="30" as="geometry" />
+          <mxGeometry x="277" y="829" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zl0trGqpFPu-GI9EGwXj-12" target="zl0trGqpFPu-GI9EGwXj-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-12" value="订单价格重估&lt;div&gt;CON2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="106" y="800" width="87" height="40" as="geometry" />
+          <mxGeometry x="113" y="899" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zl0trGqpFPu-GI9EGwXj-13" target="zl0trGqpFPu-GI9EGwXj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-13" value="重估作业价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="805" width="100" height="30" as="geometry" />
+          <mxGeometry x="277" y="904" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zl0trGqpFPu-GI9EGwXj-16" target="zl0trGqpFPu-GI9EGwXj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-16" value="订单结算&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CO88&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="106" y="885" width="87" height="40" as="geometry" />
+          <mxGeometry x="113" y="984" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zl0trGqpFPu-GI9EGwXj-17" target="zl0trGqpFPu-GI9EGwXj-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-17" value="生产订单差异" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="890" width="100" height="30" as="geometry" />
+          <mxGeometry x="277" y="989" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-19" value="&lt;div&gt;| 代码&amp;nbsp; | 英文名称&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 典型用途&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 常见科目&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;| --- | ---------------------- | ------------ | --------------- |&lt;/div&gt;&lt;div&gt;| BSX | Stock posting&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | 库存借/贷&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp;12110101(原材料)&amp;nbsp; |&lt;/div&gt;&lt;div&gt;| WRX | GR/IR clearing&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 收货暂估&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp;91010100(应付帐款-GR/IR材料采购)|&lt;/div&gt;&lt;div&gt;| GBB | Offsetting entry&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 消耗、成本中心、订单投料 |&amp;nbsp;12430300(发出商品-原材料)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;| PRD | Price diff.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | 标准价差异&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&amp;nbsp;55080100(材料成本差异-ML)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;| PRA | Price diff. from debit | 采购价差（发票校验）&amp;nbsp; &amp;nbsp;| 5401××××&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;| KDM | Exchange rate diff.&amp;nbsp; &amp;nbsp; | 汇率差异&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 5403××××&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |&lt;/div&gt;&lt;div&gt;| AUM | Transfer posting&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;| 工厂间转移&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; | 1401××××（同 BSX） |&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="140" width="510" height="160" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-37" value="物料分类账&lt;br&gt;CKMLCP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="780" width="100" height="30" as="geometry" />
+          <mxGeometry x="517" y="879" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;生产订单产出&lt;/h1&gt;&lt;p&gt;借: 库存商品&lt;/p&gt;&lt;p&gt;贷: 生产成本 - 成本转出&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="775.5" y="320" width="183" height="100" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="551.79" y="540" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;生产订单结算&lt;/h1&gt;&lt;p&gt;差异转出&lt;/p&gt;&lt;p&gt;借/贷: 生产成本 - 差异转出&lt;/p&gt;&lt;p&gt;贷/借: 产成品成本差异-ML&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="950" width="203" height="120" as="geometry" />
+          <mxGeometry x="117" y="1049" width="203" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zl0trGqpFPu-GI9EGwXj-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;采购差异&lt;/h1&gt;&lt;p&gt;借: 原材料&lt;/p&gt;&lt;p&gt;贷/借: 材料成本差异 - ML&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="510" width="180" height="100" as="geometry" />
@@ -166,9 +166,6 @@
         </mxCell>
         <mxCell id="UfCZ2Xw1dFcNarBihxez-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=10;size=20;indent=5;opacity=10;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="106" y="10" width="540" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="UfCZ2Xw1dFcNarBihxez-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=10;size=20;indent=5;opacity=10;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1040" width="590" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
