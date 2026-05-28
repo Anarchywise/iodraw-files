@@ -181,6 +181,9 @@
         <mxCell id="JTgKe-hY3lqm0-iu2Nnw-7" value="拆分费用到作业类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="755" width="113" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=10;size=20;indent=5;opacity=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="380" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
