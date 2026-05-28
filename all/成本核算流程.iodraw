@@ -178,8 +178,8 @@
         <mxCell id="JTgKe-hY3lqm0-iu2Nnw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTgKe-hY3lqm0-iu2Nnw-7" target="zl0trGqpFPu-GI9EGwXj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-7" value="实际作业价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="750" width="100" height="30" as="geometry" />
+        <mxCell id="JTgKe-hY3lqm0-iu2Nnw-7" value="拆分费用到作业类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="755" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
