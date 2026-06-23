@@ -13,8 +13,8 @@
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-6" value="对WBS进行直接记账" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="466" y="117" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3wm4jMqlMFHUsoqnWL6f-1" value="借: 库存商品 -wbs&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: 银行余额&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="121" y="218" width="237" height="71" as="geometry" />
+        <mxCell id="3wm4jMqlMFHUsoqnWL6f-1" value="借: 库存商品 -wbs&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: 银行余额&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="99" y="214" width="220" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
