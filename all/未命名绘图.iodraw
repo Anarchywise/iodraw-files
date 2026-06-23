@@ -28,6 +28,9 @@
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-5" value="收货" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="287" y="120" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3wm4jMqlMFHUsoqnWL6f-7" value="收货" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="515" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
