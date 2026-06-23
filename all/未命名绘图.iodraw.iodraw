@@ -28,7 +28,7 @@
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-9" value="维护WBS结算规则" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NAgHIcrjrJ6Jea-pdwpn-12" value="对WBS进行直接记账" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="NAgHIcrjrJ6Jea-pdwpn-12" value="结算WBS元素" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
