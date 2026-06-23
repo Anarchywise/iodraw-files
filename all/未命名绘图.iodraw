@@ -20,7 +20,7 @@
           <mxGeometry x="65" y="295.5" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-1" value="借: 库存商品 -wbs&lt;div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: GR/IR材料采购&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="293" y="200" width="188" height="71" as="geometry" />
+          <mxGeometry x="293" y="200" width="173" height="71" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-2" value="借: 办公费 -wbs&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: 银行余额&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="287" y="290" width="162" height="71" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-5" value="收货" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="287" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wm4jMqlMFHUsoqnWL6f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wm4jMqlMFHUsoqnWL6f-7" target="3wm4jMqlMFHUsoqnWL6f-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-7" value="开票" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="515" y="120" width="170" height="60" as="geometry" />
