@@ -11,16 +11,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-2" value="创建WBS元素" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="120" width="170" height="60" as="geometry" />
+          <mxGeometry x="100" y="110" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-3" value="创建在建工程资产" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="170" height="60" as="geometry" />
+          <mxGeometry x="350" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-5" value="对WBS进行采购" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="250" width="170" height="60" as="geometry" />
+          <mxGeometry x="100" y="270" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-6" value="对WBS进行直接记账" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="170" height="60" as="geometry" />
+          <mxGeometry x="100" y="360" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
