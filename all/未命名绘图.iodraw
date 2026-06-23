@@ -7,20 +7,26 @@
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-1" value="成本归集过程中的借贷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="148" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3wm4jMqlMFHUsoqnWL6f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAgHIcrjrJ6Jea-pdwpn-5" target="3wm4jMqlMFHUsoqnWL6f-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-5" value="对WBS进行采购" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="109" y="117" width="170" height="60" as="geometry" />
+          <mxGeometry x="63" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-6" value="对WBS进行直接记账" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="109" y="471" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-1" value="借: 库存商品 -wbs&lt;div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: GR/IR材料采购&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="99" y="214" width="220" height="71" as="geometry" />
+          <mxGeometry x="283" y="200" width="220" height="71" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-2" value="借: 办公费 -wbs&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: 银行余额&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="99" y="568" width="220" height="71" as="geometry" />
         </mxCell>
         <mxCell id="3wm4jMqlMFHUsoqnWL6f-4" value="借: 库存商品 -wbs&lt;div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;贷: GR/IR材料采购&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="97" y="308" width="220" height="71" as="geometry" />
+          <mxGeometry x="283" y="386" width="220" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="3wm4jMqlMFHUsoqnWL6f-5" value="收货" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="287" y="120" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
