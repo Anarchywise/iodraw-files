@@ -13,8 +13,11 @@
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-2" value="创建内部订单" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="358" y="116" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DzyWgbix4Naz5Hk6JBas-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAgHIcrjrJ6Jea-pdwpn-3" target="NAgHIcrjrJ6Jea-pdwpn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-3" value="创建在建工程资产" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="108" y="116" width="170" height="60" as="geometry" />
+          <mxGeometry x="100" y="116" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NAgHIcrjrJ6Jea-pdwpn-5" target="NAgHIcrjrJ6Jea-pdwpn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +32,7 @@
           <mxGeometry x="100" y="330" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-9" value="维护WBS结算规则" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="587" y="116" width="170" height="60" as="geometry" />
+          <mxGeometry x="581" y="116" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-12" value="结算WBS元素" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="330" y="280" width="170" height="60" as="geometry" />
