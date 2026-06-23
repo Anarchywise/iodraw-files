@@ -13,8 +13,11 @@
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-2" value="创建WBS元素" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="314" y="120" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="e8_XA6F3JR2gpe_9fSEf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAgHIcrjrJ6Jea-pdwpn-3" target="NAgHIcrjrJ6Jea-pdwpn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-3" value="创建在建工程资产" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#4472c4;fontColor=#FFFFFF;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="100" y="112" width="170" height="60" as="geometry" />
+          <mxGeometry x="100" y="120" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAgHIcrjrJ6Jea-pdwpn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NAgHIcrjrJ6Jea-pdwpn-5" target="NAgHIcrjrJ6Jea-pdwpn-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
