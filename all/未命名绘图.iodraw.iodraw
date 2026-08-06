@@ -19,6 +19,11 @@
         <mxCell id="DzsEkkAcMpVEk4IY_NbI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzsEkkAcMpVEk4IY_NbI-5" target="DzsEkkAcMpVEk4IY_NbI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DzsEkkAcMpVEk4IY_NbI-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzsEkkAcMpVEk4IY_NbI-13">
+          <mxGeometry x="-0.14" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DzsEkkAcMpVEk4IY_NbI-5" value="合剂测试&lt;div&gt;0.001KG&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,7 +42,7 @@
             <mxPoint x="340" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzsEkkAcMpVEk4IY_NbI-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzsEkkAcMpVEk4IY_NbI-12" value="氢氧化钾&lt;div&gt;2kG&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
